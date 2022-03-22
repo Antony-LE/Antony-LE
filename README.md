@@ -18,5 +18,15 @@ Languages and Tools:
 <img width= "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width= "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+### My daily routine : 
+
+```mermaid
+  graph TD;
+      Code-->Coffee;
+      Coffee-->Running;
+      Running-->Sleep;
+      Sleep-->Code;
+ ```
+
 See ya !
 
