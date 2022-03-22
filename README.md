@@ -9,6 +9,7 @@ My name is Antony, i'm a French coder, food lover, globe-trotter and a happy dad
 - 🎯 My LinkedIn link: https://www.linkedin.com/in/antony-le
 
 Languages and Tools:
+<br/>
 <img width= "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 See ya !
