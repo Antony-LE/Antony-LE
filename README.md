@@ -10,6 +10,7 @@ My name is Antony, i'm a French coder, food lover, globe-trotter and a happy dad
 
 Languages and Tools:
 <br/>
+<br/>
 <img width= "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width= "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width= "25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -31,7 +32,7 @@ Languages and Tools:
  ### My Github stats : 
  ![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-LE&show_icons=true&theme=radical)
  <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-LE)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-LE&show_icons=true&theme=radical)
 
 See ya !
 
