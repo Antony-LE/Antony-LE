@@ -30,6 +30,7 @@ Languages and Tools:
  
  ### My Github stats : 
  ![GHstats](https://github-readme-stat.vercel.app/api?username=Antony-LE&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-LE)](https://github.com/anuraghazra/github-readme-stats)
 
 See ya !
 
